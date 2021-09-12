@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Waffle";
+  background-color: #041a30; }
+
+
+  #output {
+    font-size: 30px;
+    color: #ffffff; }
+  
+  #title {
+    text-align: center;
+    color: #f1cf0a;
+    text-transform: uppercase;
+    font-weight: bold; }
+  
+  .Container {
+    display: grid;
+    grid-template-rows: auto;
+    justify-items: center;
+    align-items: center;
+    font-weight: bold;
+    color: #ffffff; }
+  
+  label {
+    color: #ede2a7; }
+  
+  .min-area {
+    padding-top: 100px; }
+    .min-area input {
+      color: #ffffff; }
+  
+  .max-area {
+    padding-bottom: 80px; }
+    .max-area input {
+      color: #ffffff; }
+  
+  button {
+    margin-left: 120px;
+    background-color: #f7780a  !important;
+    box-shadow: none !important;
+    border: 5px solid #f7780a  !important;
+    padding-bottom: 50px !important;
+    margin-bottom: 100px;
+    font-family: "Trebuchet MS";
+    font-weight: bold; }
+  
+  /*# sourceMappingURL=index.css.map */
